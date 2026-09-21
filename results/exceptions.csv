@@ -1,0 +1,196 @@
+item,control,key,subject,detail,severity,kind
+1,A1,ad.e0516,ad.e0516,"created 2026-03-14, 10 days before hire on 2026-03-24",Medium,injected
+2,A1,ad.e0915,ad.e0915,"created 2016-09-12, 28 days before hire on 2016-10-10",Medium,injected
+3,A1,ad.e1044,ad.e1044,"created 2017-02-14, 49 days before hire on 2017-04-04",Medium,injected
+4,A1,ad.e1053,ad.e1053,"created 2013-12-09, 19 days before hire on 2013-12-28",Medium,injected
+5,A1,ad.x000,ad.x000,AD account for E9000: no such employee in HR,High,injected
+6,A1,erp.x001,erp.x001,ERP account for E9001: no such employee in HR,High,injected
+7,A1,ad.x002,ad.x002,AD account for E9002: no such employee in HR,High,injected
+8,A1,hris.x003,hris.x003,HRIS account for E9003: no such employee in HR,High,injected
+9,A1,ad.x004,ad.x004,AD account for E9004: no such employee in HR,High,injected
+10,A1,erp.x005,erp.x005,ERP account for E9005: no such employee in HR,High,injected
+11,A2,ad.e0005,ad.e0005,"disabled 2026-03-24, 36 days after termination on 2026-02-16 (deadline 2026-02-17)",Medium,injected
+12,A2,erp.e0005,erp.e0005,"disabled 2026-03-24, 36 days after termination on 2026-02-16 (deadline 2026-02-17)",Medium,injected
+13,A2,ad.e0183,ad.e0183,still enabled at 2026-06-30; employment ended 2026-05-15 (46 days ago),High,injected
+14,A2,erp.e0183,erp.e0183,still enabled at 2026-06-30; employment ended 2026-05-15 (46 days ago),High,injected
+15,A2,ad.e0214,ad.e0214,still enabled at 2026-06-30; employment ended 2026-02-20 (130 days ago),High,injected
+16,A2,erp.e0214,erp.e0214,still enabled at 2026-06-30; employment ended 2026-02-20 (130 days ago),High,injected
+17,A2,ad.e0225,ad.e0225,"disabled 2026-06-29, 44 days after termination on 2026-05-16 (deadline 2026-05-19)",Medium,injected
+18,A2,erp.e0225,erp.e0225,"disabled 2026-06-29, 44 days after termination on 2026-05-16 (deadline 2026-05-19)",Medium,injected
+19,A2,ad.e0264,ad.e0264,"disabled 2026-02-26, 42 days after termination on 2026-01-15 (deadline 2026-01-16)",Medium,injected
+20,A2,erp.e0264,erp.e0264,"disabled 2026-02-26, 42 days after termination on 2026-01-15 (deadline 2026-01-16)",Medium,injected
+21,A2,ad.e0321,ad.e0321,"disabled 2025-10-28, 25 days after termination on 2025-10-03 (deadline 2025-10-06)",Medium,injected
+22,A2,hris.e0321,hris.e0321,"disabled 2025-10-28, 25 days after termination on 2025-10-03 (deadline 2025-10-06)",Medium,injected
+23,A2,ad.e0339,ad.e0339,still enabled at 2026-06-30; employment ended 2026-03-13 (109 days ago),High,injected
+24,A2,hris.e0339,hris.e0339,still enabled at 2026-06-30; employment ended 2026-03-13 (109 days ago),High,injected
+25,A2,payroll.e0339,payroll.e0339,still enabled at 2026-06-30; employment ended 2026-03-13 (109 days ago),High,injected
+26,A2,ad.e0391,ad.e0391,still enabled at 2026-06-30; employment ended 2025-10-05 (268 days ago),High,injected
+27,A2,ad.e0426,ad.e0426,"disabled 2025-09-16, 35 days after termination on 2025-08-12 (deadline 2025-08-13)",Medium,injected
+28,A2,ad.e0495,ad.e0495,"disabled 2025-10-08, 6 days after termination on 2025-10-02 (deadline 2025-10-03)",Medium,injected
+29,A2,ad.e0515,ad.e0515,still enabled at 2026-06-30; employment ended 2026-06-25 (5 days ago),High,injected
+30,A2,ad.e0520,ad.e0520,still enabled at 2026-06-30; employment ended 2026-04-20 (71 days ago),High,injected
+31,A2,ad.e0617,ad.e0617,"disabled 2026-02-26, 14 days after termination on 2026-02-12 (deadline 2026-02-13)",Medium,injected
+32,A2,ad.e0745,ad.e0745,still enabled at 2026-06-30; employment ended 2026-01-20 (161 days ago),High,injected
+33,A2,ad.e0814,ad.e0814,"disabled 2025-11-26, 26 days after termination on 2025-10-31 (deadline 2025-11-03)",Medium,injected
+34,A2,ad.e0842,ad.e0842,"disabled 2025-09-25, 55 days after termination on 2025-08-01 (deadline 2025-08-04)",Medium,injected
+35,A2,ad.e0864,ad.e0864,still enabled at 2026-06-30; employment ended 2025-11-22 (220 days ago),High,injected
+36,A2,ad.e0873,ad.e0873,"disabled 2026-02-05, 11 days after termination on 2026-01-25 (deadline 2026-01-27)",Medium,injected
+37,A2,ad.e0879,ad.e0879,"disabled 2026-02-04, 29 days after termination on 2026-01-06 (deadline 2026-01-07)",Medium,injected
+38,A2,ad.e1032,ad.e1032,"disabled 2025-08-06, 26 days after termination on 2025-07-11 (deadline 2025-07-14)",Medium,injected
+39,A2,erp.e1032,erp.e1032,"disabled 2025-08-06, 26 days after termination on 2025-07-11 (deadline 2025-07-14)",Medium,injected
+40,A3,E1096|ERP:customer_view,E1096,ERP:customer_view not in the role model for Executive; carried over from previous role Sales Manager,Medium,injected
+41,A3,E0235|ERP:po_create,E0235,ERP:po_create not in the role model for Vendor Master Admin; carried over from previous role Procurement Officer,Medium,injected
+42,A3,E0187|ERP:gl_journal_post,E0187,ERP:gl_journal_post not in the role model for Treasury Officer; carried over from previous role Financial Accountant,Medium,injected
+43,A3,E0187|ERP:gl_reporting,E0187,ERP:gl_reporting not in the role model for Treasury Officer; carried over from previous role Financial Accountant,Medium,injected
+44,A3,E0019|ERP:ap_invoice_entry,E0019,ERP:ap_invoice_entry not in the role model for AR Clerk; carried over from previous role AP Clerk,Medium,injected
+45,A3,E0019|ERP:vendor_view,E0019,ERP:vendor_view not in the role model for AR Clerk; carried over from previous role AP Clerk,Medium,injected
+46,A3,E0313|HRIS:employee_edit,E0313,HRIS:employee_edit not in the role model for Payroll Officer; carried over from previous role HR Officer,Medium,injected
+47,A3,E0016|ERP:payment_approve,E0016,ERP:payment_approve not in the role model for AP Clerk,Medium,injected
+48,A3,E0633|ERP:ap_invoice_approve,E0633,ERP:ap_invoice_approve not in the role model for Operations Staff,Medium,injected
+49,A3,E0134|ERP:gl_reporting,E0134,ERP:gl_reporting not in the role model for Treasury Officer,Medium,injected
+50,A3,E1171|ERP:gl_journal_approve,E1171,ERP:gl_journal_approve not in the role model for Facilities Staff,Medium,injected
+51,A3,E0429|ERP:vendor_view,E0429,ERP:vendor_view not in the role model for IT Support,Medium,injected
+52,A3,E1123|ERP:vendor_create,E1123,ERP:vendor_create not in the role model for Facilities Staff,Medium,injected
+53,A3,E0694|ERP:ap_invoice_approve,E0694,ERP:ap_invoice_approve not in the role model for Operations Staff,Medium,injected
+54,A3,E0858|ERP:payment_approve,E0858,ERP:payment_approve not in the role model for Operations Staff,Medium,injected
+55,A3,E0171|ERP:sap_all,E0171,ERP:sap_all not in the role model for Financial Accountant,High,injected
+56,A3,E0936|ERP:po_approve,E0936,ERP:po_approve not in the role model for Operations Manager,Medium,injected
+57,A3,E0134|ERP:vendor_create,E0134,ERP:vendor_create not in the role model for Treasury Officer,Medium,injected
+58,A3,E0219|ERP:po_approve,E0219,ERP:po_approve not in the role model for Procurement Officer,Medium,injected
+59,A3,E0259|ERP:po_approve,E0259,ERP:po_approve not in the role model for Procurement Officer,Medium,injected
+60,A3,E0024|ERP:vendor_create,E0024,ERP:vendor_create not in the role model for AP Clerk,Medium,injected
+61,A3,E0145|ERP:payment_approve,E0145,ERP:payment_approve not in the role model for Treasury Officer,Medium,injected
+62,A3,E0170|ERP:gl_journal_approve,E0170,ERP:gl_journal_approve not in the role model for Financial Accountant,Medium,injected
+63,A3,E0301|PAYROLL:payroll_run,E0301,PAYROLL:payroll_run not in the role model for HR Officer,Medium,injected
+64,A3,E0311|PAYROLL:payroll_run,E0311,PAYROLL:payroll_run not in the role model for HR Officer,Medium,injected
+65,A3,E0081|ERP:vendor_create,E0081,ERP:vendor_create not in the role model for AP Supervisor,Medium,injected
+66,A4,admin|AD:domain_admin,admin,AD:domain_admin on a generic account — no named individual is accountable,High,injected
+67,A4,erp.firefighter|ERP:sap_all,erp.firefighter,ERP:sap_all on a generic account — no named individual is accountable,High,injected
+68,A4,erp.e0171|ERP:sap_all,erp.e0171,"ERP:sap_all held by a Financial Accountant (Finance), a role not entitled to it",High,injected
+69,A5,erp.e0064,erp.e0064,"enabled; last logon 2026-03-24, 98 days before the extract",Medium,injected
+70,A5,erp.e0087,erp.e0087,"enabled; last logon 2026-03-05, 117 days before the extract",Medium,injected
+71,A5,ad.e0090,ad.e0090,"enabled; last logon 2025-10-12, 261 days before the extract",Medium,injected
+72,A5,ad.e0109,ad.e0109,"enabled; last logon 2025-06-07, 388 days before the extract",Medium,injected
+73,A5,ad.e0118,ad.e0118,"enabled; last logon 2025-09-07, 296 days before the extract",Medium,injected
+74,A5,erp.e0125,erp.e0125,"enabled; last logon 2025-09-17, 286 days before the extract",Medium,injected
+75,A5,ad.e0150,ad.e0150,"enabled; last logon 2025-06-30, 365 days before the extract",Medium,injected
+76,A5,ad.e0192,ad.e0192,"enabled; last logon 2025-06-15, 380 days before the extract",Medium,injected
+77,A5,ad.e0196,ad.e0196,"enabled; last logon 2025-08-01, 333 days before the extract",Medium,injected
+78,A5,ad.e0214,ad.e0214,"enabled; last logon 2026-02-16, 134 days before the extract",Medium,consequence
+79,A5,erp.e0214,erp.e0214,"enabled; last logon 2026-02-17, 133 days before the extract",Medium,consequence
+80,A5,ad.e0339,ad.e0339,"enabled; last logon 2026-03-12, 110 days before the extract",Medium,consequence
+81,A5,hris.e0339,hris.e0339,"enabled; last logon 2026-03-11, 111 days before the extract",Medium,consequence
+82,A5,payroll.e0339,payroll.e0339,"enabled; last logon 2026-03-11, 111 days before the extract",Medium,consequence
+83,A5,payroll.e0351,payroll.e0351,"enabled; last logon 2026-02-07, 143 days before the extract",Medium,injected
+84,A5,payroll.e0359,payroll.e0359,"enabled; last logon 2026-03-17, 105 days before the extract",Medium,injected
+85,A5,payroll.e0377,payroll.e0377,"enabled; last logon 2025-12-12, 200 days before the extract",Medium,injected
+86,A5,ad.e0391,ad.e0391,"enabled; last logon 2025-10-04, 269 days before the extract",Medium,consequence
+87,A5,ad.e0414,ad.e0414,"enabled; last logon 2025-11-16, 226 days before the extract",Medium,injected
+88,A5,ad.e0431,ad.e0431,"enabled; last logon 2025-08-24, 310 days before the extract",Medium,injected
+89,A5,ad.e0482,ad.e0482,"enabled; last logon 2025-11-05, 237 days before the extract",Medium,injected
+90,A5,ad.e0514,ad.e0514,"enabled; last logon 2025-08-30, 304 days before the extract",Medium,injected
+91,A5,ad.e0605,ad.e0605,"enabled; last logon 2025-06-17, 378 days before the extract",Medium,injected
+92,A5,ad.e0711,ad.e0711,"enabled; last logon 2025-07-22, 343 days before the extract",Medium,injected
+93,A5,ad.e0715,ad.e0715,"enabled; last logon 2025-06-18, 377 days before the extract",Medium,injected
+94,A5,ad.e0745,ad.e0745,"enabled; last logon 2026-01-20, 161 days before the extract",Medium,consequence
+95,A5,ad.e0793,ad.e0793,"enabled; last logon 2025-11-17, 225 days before the extract",Medium,injected
+96,A5,ad.e0811,ad.e0811,"enabled; last logon 2026-03-25, 97 days before the extract",Medium,injected
+97,A5,ad.e0864,ad.e0864,"enabled; last logon 2025-11-18, 224 days before the extract",Medium,consequence
+98,A5,ad.e0868,ad.e0868,"enabled; last logon 2025-09-11, 292 days before the extract",Medium,injected
+99,A5,ad.e0890,ad.e0890,"enabled; last logon 2026-02-24, 126 days before the extract",Medium,injected
+100,A5,ad.e0963,ad.e0963,"enabled; last logon 2025-08-11, 323 days before the extract",Medium,injected
+101,A5,erp.e0982,erp.e0982,"enabled; last logon 2025-06-24, 371 days before the extract",Medium,injected
+102,A5,erp.e1031,erp.e1031,"enabled; last logon 2025-09-13, 290 days before the extract",Medium,injected
+103,A5,erp.e1043,erp.e1043,"enabled; last logon 2025-08-09, 325 days before the extract",Medium,injected
+104,A5,erp.e1053,erp.e1053,"enabled; last logon 2025-06-20, 375 days before the extract",Medium,injected
+105,A5,ad.e1075,ad.e1075,"enabled; last logon 2026-01-02, 179 days before the extract",Medium,injected
+106,A5,ad.e1151,ad.e1151,"enabled; last logon 2025-08-29, 305 days before the extract",Medium,injected
+107,A6,CHG-00054,CHG-00054,AD:user on ad.e0291: approved by the beneficiary (E0291),High,injected
+108,A6,CHG-00093,CHG-00093,AD:user granted to ad.e0409 on 2025-08-12 with no ticket,High,injected
+109,A6,CHG-00020,CHG-00020,ERP:gl_reporting granted to erp.e0123 on 2025-08-27 with no ticket,High,injected
+110,A6,CHG-00019,CHG-00019,ERP:gl_journal_post granted to erp.e0123 on 2025-08-27 with no ticket,High,injected
+111,A6,CHG-00123,CHG-00123,AD:user granted to ad.e0575 on 2025-08-30 with no ticket,High,injected
+112,A6,CHG-00109,CHG-00109,ERP:po_create on erp.e0507: approved by the beneficiary (E0507),High,injected
+113,A6,CHG-00010,CHG-00010,ERP:gl_reporting on erp.e0101: approver is the requester (E0208),Medium,injected
+114,A6,CHG-00011,CHG-00011,ERP:payment_approve on erp.e0101: approved by the beneficiary (E0101),High,process
+115,A6,CHG-00012,CHG-00012,ERP:ap_invoice_approve on erp.e0101: approved by the beneficiary (E0101),High,process
+116,A6,CHG-00009,CHG-00009,ERP:gl_journal_approve on erp.e0101: approved by the beneficiary (E0101),High,process
+117,A6,CHG-00047,CHG-00047,AD:user granted to ad.e0275 on 2026-02-12 with no ticket,High,injected
+118,A6,CHG-00048,CHG-00048,ERP:po_approve on erp.e0275: approver is the requester (E0268),Medium,injected
+119,A6,CHG-00068,CHG-00068,HRIS:position_approve on hris.e0334: approved by the beneficiary (E0334),High,process
+120,A6,CHG-00127,CHG-00127,ERP:po_create on erp.e0612: approved by the beneficiary (E0612),High,injected
+121,A6,CHG-00102,CHG-00102,AD:domain_admin granted to ad.e0470 while ticket REQ-20102 was Pending,Medium,injected
+122,A6,CHG-00120,CHG-00120,ERP:po_create granted to erp.e0561 on 2026-05-02 with no ticket,High,injected
+123,S1,E0024|ERP:vendor_create|ERP:ap_invoice_entry,E0024,AP Clerk (Finance) holds ERP:vendor_create and ERP:ap_invoice_entry: create a vendor and enter its invoices,High,injected
+124,S1,E0072|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0072,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+125,S1,E0073|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0073,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+126,S1,E0077|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0077,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+127,S1,E0078|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0078,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+128,S1,E0079|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0079,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+129,S1,E0081|ERP:vendor_create|ERP:ap_invoice_entry,E0081,AP Supervisor (Finance) holds ERP:vendor_create and ERP:ap_invoice_entry: create a vendor and enter its invoices,High,injected
+130,S1,E0081|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0081,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+131,S1,E0083|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0083,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+132,S1,E0084|ERP:ap_invoice_entry|ERP:ap_invoice_approve,E0084,AP Supervisor (Finance) holds ERP:ap_invoice_entry and ERP:ap_invoice_approve: enter and approve the same invoice,High,design
+133,S1,E0129|ERP:payment_run|ERP:bank_recon,E0129,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+134,S1,E0130|ERP:payment_run|ERP:bank_recon,E0130,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+135,S1,E0132|ERP:payment_run|ERP:bank_recon,E0132,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+136,S1,E0133|ERP:payment_run|ERP:bank_recon,E0133,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+137,S1,E0134|ERP:vendor_create|ERP:payment_run,E0134,Treasury Officer (Finance) holds ERP:vendor_create and ERP:payment_run: create a vendor and pay it,High,injected
+138,S1,E0134|ERP:payment_run|ERP:bank_recon,E0134,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+139,S1,E0135|ERP:payment_run|ERP:bank_recon,E0135,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+140,S1,E0136|ERP:payment_run|ERP:bank_recon,E0136,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+141,S1,E0137|ERP:payment_run|ERP:bank_recon,E0137,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+142,S1,E0138|ERP:payment_run|ERP:bank_recon,E0138,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+143,S1,E0139|ERP:payment_run|ERP:bank_recon,E0139,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+144,S1,E0140|ERP:payment_run|ERP:bank_recon,E0140,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+145,S1,E0141|ERP:payment_run|ERP:bank_recon,E0141,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+146,S1,E0142|ERP:payment_run|ERP:bank_recon,E0142,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+147,S1,E0143|ERP:payment_run|ERP:bank_recon,E0143,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+148,S1,E0144|ERP:payment_run|ERP:bank_recon,E0144,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+149,S1,E0145|ERP:payment_run|ERP:payment_approve,E0145,Treasury Officer (Finance) holds ERP:payment_run and ERP:payment_approve: prepare and approve the same payment run,High,injected
+150,S1,E0145|ERP:payment_run|ERP:bank_recon,E0145,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+151,S1,E0146|ERP:payment_run|ERP:bank_recon,E0146,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+152,S1,E0170|ERP:gl_journal_post|ERP:gl_journal_approve,E0170,Financial Accountant (Finance) holds ERP:gl_journal_post and ERP:gl_journal_approve: post and approve the same journal,High,injected
+153,S1,E0187|ERP:payment_run|ERP:bank_recon,E0187,Treasury Officer (Finance) holds ERP:payment_run and ERP:bank_recon: pay and reconcile the bank,High,design
+154,S1,E0219|ERP:po_create|ERP:po_approve,E0219,Procurement Officer (Procurement) holds ERP:po_create and ERP:po_approve: raise and approve the same purchase order,High,injected
+155,S1,E0259|ERP:po_create|ERP:po_approve,E0259,Procurement Officer (Procurement) holds ERP:po_create and ERP:po_approve: raise and approve the same purchase order,High,injected
+156,S1,E0301|HRIS:employee_edit|PAYROLL:payroll_run,E0301,HR Officer (Human Resources) holds HRIS:employee_edit and PAYROLL:payroll_run: create an employee and pay them,High,injected
+157,S1,E0311|HRIS:employee_edit|PAYROLL:payroll_run,E0311,HR Officer (Human Resources) holds HRIS:employee_edit and PAYROLL:payroll_run: create an employee and pay them,High,injected
+158,S1,E0313|HRIS:employee_edit|PAYROLL:payroll_run,E0313,Payroll Officer (Human Resources) holds HRIS:employee_edit and PAYROLL:payroll_run: create an employee and pay them,High,consequence
+159,S1,E0372|PAYROLL:payroll_approve|PAYROLL:bank_file_release,E0372,Payroll Manager (Human Resources) holds PAYROLL:payroll_approve and PAYROLL:bank_file_release: approve payroll and release the bank file,High,design
+160,S1,E0373|PAYROLL:payroll_approve|PAYROLL:bank_file_release,E0373,Payroll Manager (Human Resources) holds PAYROLL:payroll_approve and PAYROLL:bank_file_release: approve payroll and release the bank file,High,design
+161,S1,E0374|PAYROLL:payroll_approve|PAYROLL:bank_file_release,E0374,Payroll Manager (Human Resources) holds PAYROLL:payroll_approve and PAYROLL:bank_file_release: approve payroll and release the bank file,High,design
+162,S1,E0375|PAYROLL:payroll_approve|PAYROLL:bank_file_release,E0375,Payroll Manager (Human Resources) holds PAYROLL:payroll_approve and PAYROLL:bank_file_release: approve payroll and release the bank file,High,design
+163,S1,E0376|PAYROLL:payroll_approve|PAYROLL:bank_file_release,E0376,Payroll Manager (Human Resources) holds PAYROLL:payroll_approve and PAYROLL:bank_file_release: approve payroll and release the bank file,High,design
+164,S1,E0377|PAYROLL:payroll_approve|PAYROLL:bank_file_release,E0377,Payroll Manager (Human Resources) holds PAYROLL:payroll_approve and PAYROLL:bank_file_release: approve payroll and release the bank file,High,design
+165,S1,E0378|PAYROLL:payroll_approve|PAYROLL:bank_file_release,E0378,Payroll Manager (Human Resources) holds PAYROLL:payroll_approve and PAYROLL:bank_file_release: approve payroll and release the bank file,High,design
+166,S1,E0936|ERP:po_create|ERP:po_approve,E0936,Operations Manager (Operations) holds ERP:po_create and ERP:po_approve: raise and approve the same purchase order,High,injected
+167,F1,E0965,E0965,"40 claims between RM900 and RM1,000 (82% of their claims) — splitting to stay under the limit",High,injected
+168,F1,E1033,E1033,"40 claims between RM900 and RM1,000 (77% of their claims) — splitting to stay under the limit",High,injected
+169,F1,E1043,E1043,"40 claims between RM900 and RM1,000 (73% of their claims) — splitting to stay under the limit",High,injected
+170,F1,EXP-010945,EXP-010945,"duplicate: E0413, RM17.69 on 2025-07-08",Medium,injected
+171,F1,EXP-010936,EXP-010936,"duplicate: E0744, RM160.02 on 2025-07-20",Medium,injected
+172,F1,EXP-010935,EXP-010935,"duplicate: E0882, RM1,010.24 on 2025-07-26",Medium,injected
+173,F1,EXP-010946,EXP-010946,"duplicate: E1166, RM127.34 on 2025-08-04",Medium,injected
+174,F1,EXP-010934,EXP-010934,"duplicate: E0143, RM30.85 on 2025-08-18",Medium,injected
+175,F1,EXP-010933,EXP-010933,"duplicate: E0476, RM64.48 on 2025-09-09",Medium,injected
+176,F1,EXP-010938,EXP-010938,"duplicate: E0641, RM52.26 on 2025-10-10",Medium,injected
+177,F1,EXP-010943,EXP-010943,"duplicate: E0376, RM80.69 on 2025-10-25",Medium,injected
+178,F1,EXP-010941,EXP-010941,"duplicate: E0505, RM61.50 on 2025-12-13",Medium,injected
+179,F1,EXP-010944,EXP-010944,"duplicate: E0212, RM258.68 on 2026-02-08",Medium,injected
+180,F1,EXP-010939,EXP-010939,"duplicate: E1177, RM58.76 on 2026-02-21",Medium,injected
+181,F1,EXP-010942,EXP-010942,"duplicate: E1032, RM277.69 on 2026-02-25",Medium,injected
+182,F1,EXP-010937,EXP-010937,"duplicate: E0656, RM347.29 on 2026-03-25",Medium,injected
+183,F1,EXP-010940,EXP-010940,"duplicate: E0102, RM40.01 on 2026-03-26",Medium,injected
+184,F1,EXP-010932,EXP-010932,"duplicate: E1064, RM87.84 on 2026-06-29",Medium,injected
+185,F1,EXP-003132,EXP-003132,approved by the claimant: RM21.41 on 2025-07-04,High,injected
+186,F1,EXP-002179,EXP-002179,approved by the claimant: RM133.13 on 2025-10-21,High,injected
+187,F1,EXP-009428,EXP-009428,approved by the claimant: RM63.86 on 2025-11-22,High,injected
+188,F1,EXP-000659,EXP-000659,approved by the claimant: RM95.02 on 2026-02-12,High,injected
+189,F1,EXP-006353,EXP-006353,approved by the claimant: RM156.88 on 2026-02-13,High,injected
+190,F1,EXP-010460,EXP-010460,approved by the claimant: RM301.43 on 2026-03-09,High,injected
+191,F1,EXP-009876,EXP-009876,approved by the claimant: RM94.52 on 2026-03-29,High,injected
+192,F1,EXP-005979,EXP-005979,approved by the claimant: RM34.82 on 2026-04-25,High,injected
+193,F1,EXP-001028,EXP-001028,approved by the claimant: RM238.41 on 2026-05-18,High,injected
+194,F1,EXP-008422,EXP-008422,approved by the claimant: RM67.84 on 2026-06-19,High,injected
+195,F1,E0641,E0641,25 claims in round fifties (66% of their claims),Medium,injected

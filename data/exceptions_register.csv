@@ -1,0 +1,10 @@
+employee_id,entitlement,ticket_id,approved_by,reason,expires_on
+E0943,ERP:ap_invoice_approve,EXC-1040,E0972,"Temporary cover for vacancy, compensating review by Finance Manager",2026-12-31
+E0895,ERP:gl_journal_approve,EXC-1041,E0900,"Temporary cover for vacancy, compensating review by Finance Manager",2026-12-31
+E1025,ERP:vendor_view,EXC-1042,E0983,"Temporary cover for vacancy, compensating review by Finance Manager",2026-12-31
+E1183,ERP:vendor_create,EXC-1043,E1121,"Temporary cover for vacancy, compensating review by Finance Manager",2026-12-31
+E1194,ERP:po_approve,EXC-1044,E1121,"Temporary cover for vacancy, compensating review by Finance Manager",2026-12-31
+E0340,PAYROLL:payroll_run,SOD-210,E0337,Conflict with HRIS:employee_edit accepted; monthly review of the affected transactions by Internal Audit,2026-12-31
+E0069,ERP:ap_invoice_approve,SOD-211,E0207,Conflict with ERP:ap_invoice_entry accepted; monthly review of the affected transactions by Internal Audit,2026-12-31
+E0334,PAYROLL:payroll_run,SOD-212,E0373,Conflict with HRIS:employee_edit accepted; monthly review of the affected transactions by Internal Audit,2026-12-31
+E0923,ERP:po_approve,SOD-213,E0914,Conflict with ERP:po_create accepted; monthly review of the affected transactions by Internal Audit,2026-12-31

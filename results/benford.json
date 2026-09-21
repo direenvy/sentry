@@ -1,0 +1,470 @@
+{
+ "all": {
+  "n": 10911,
+  "mad": 0.0075,
+  "chi2": 90.0,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 31.61,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 16.52,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 11.14,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 8.82,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 7.92,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 6.77,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 5.74,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 5.52,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 5.97,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "Facilities": {
+  "n": 459,
+  "mad": 0.0109,
+  "chi2": 7.0,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 31.59,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 16.34,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 11.33,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 10.46,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 8.93,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 5.01,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 5.01,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 6.75,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 4.58,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "Finance": {
+  "n": 1130,
+  "mad": 0.0086,
+  "chi2": 10.0,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 28.23,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 17.17,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 11.06,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 10.88,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 8.76,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 7.26,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 5.66,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 6.37,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 4.6,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "Human Resources": {
+  "n": 449,
+  "mad": 0.0125,
+  "chi2": 10.8,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 32.52,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 16.48,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 11.58,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 6.68,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 7.57,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 6.9,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 6.68,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 4.9,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 6.68,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "IT": {
+  "n": 527,
+  "mad": 0.0124,
+  "chi2": 10.4,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 30.93,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 19.73,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 10.25,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 8.92,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 5.69,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 7.97,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 5.5,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 6.45,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 4.55,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "Legal": {
+  "n": 84,
+  "mad": 0.0199,
+  "chi2": 5.0,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 32.14,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 19.05,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 7.14,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 7.14,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 8.33,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 10.71,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 4.76,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 5.95,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 4.76,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "Operations": {
+  "n": 5543,
+  "mad": 0.0084,
+  "chi2": 37.9,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 32.09,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 16.42,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 11.15,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 8.44,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 8.17,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 7.07,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 6.3,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 5.12,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 5.23,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "Procurement": {
+  "n": 475,
+  "mad": 0.0133,
+  "chi2": 8.7,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 34.53,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 15.16,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 11.79,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 10.11,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 8.0,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 5.47,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 4.21,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 5.89,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 4.84,
+    "expected_pct": 4.58
+   }
+  ]
+ },
+ "Sales": {
+  "n": 2244,
+  "mad": 0.0145,
+  "chi2": 125.1,
+  "digits": [
+   {
+    "digit": 1,
+    "observed_pct": 31.46,
+    "expected_pct": 30.1
+   },
+   {
+    "digit": 2,
+    "observed_pct": 15.95,
+    "expected_pct": 17.61
+   },
+   {
+    "digit": 3,
+    "observed_pct": 11.23,
+    "expected_pct": 12.49
+   },
+   {
+    "digit": 4,
+    "observed_pct": 8.56,
+    "expected_pct": 9.69
+   },
+   {
+    "digit": 5,
+    "observed_pct": 7.22,
+    "expected_pct": 7.92
+   },
+   {
+    "digit": 6,
+    "observed_pct": 5.97,
+    "expected_pct": 6.69
+   },
+   {
+    "digit": 7,
+    "observed_pct": 4.77,
+    "expected_pct": 5.8
+   },
+   {
+    "digit": 8,
+    "observed_pct": 5.61,
+    "expected_pct": 5.12
+   },
+   {
+    "digit": 9,
+    "observed_pct": 9.22,
+    "expected_pct": 4.58
+   }
+  ]
+ }
+}

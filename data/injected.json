@@ -1,0 +1,1280 @@
+[
+ {
+  "control": "A1",
+  "key": "ad.x000",
+  "kind": "injected",
+  "detail": "account has no employee record in HR"
+ },
+ {
+  "control": "A1",
+  "key": "erp.x001",
+  "kind": "injected",
+  "detail": "account has no employee record in HR"
+ },
+ {
+  "control": "A1",
+  "key": "ad.x002",
+  "kind": "injected",
+  "detail": "account has no employee record in HR"
+ },
+ {
+  "control": "A1",
+  "key": "hris.x003",
+  "kind": "injected",
+  "detail": "account has no employee record in HR"
+ },
+ {
+  "control": "A1",
+  "key": "ad.x004",
+  "kind": "injected",
+  "detail": "account has no employee record in HR"
+ },
+ {
+  "control": "A1",
+  "key": "erp.x005",
+  "kind": "injected",
+  "detail": "account has no employee record in HR"
+ },
+ {
+  "control": "A1",
+  "key": "ad.e1053",
+  "kind": "injected",
+  "detail": "account created before the hire date"
+ },
+ {
+  "control": "A1",
+  "key": "ad.e0915",
+  "kind": "injected",
+  "detail": "account created before the hire date"
+ },
+ {
+  "control": "A1",
+  "key": "ad.e0516",
+  "kind": "injected",
+  "detail": "account created before the hire date"
+ },
+ {
+  "control": "A1",
+  "key": "ad.e1044",
+  "kind": "injected",
+  "detail": "account created before the hire date"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0391",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0391"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0520",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0520"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0183",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0183"
+ },
+ {
+  "control": "A2",
+  "key": "erp.e0183",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0183"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0515",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0515"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0339",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0339"
+ },
+ {
+  "control": "A2",
+  "key": "hris.e0339",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0339"
+ },
+ {
+  "control": "A2",
+  "key": "payroll.e0339",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0339"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0214",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0214"
+ },
+ {
+  "control": "A2",
+  "key": "erp.e0214",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0214"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0864",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0864"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0745",
+  "kind": "injected",
+  "detail": "leaver's account still enabled at the extract date",
+  "employee_id": "E0745"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0005",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-03-24",
+  "employee_id": "E0005"
+ },
+ {
+  "control": "A2",
+  "key": "erp.e0005",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-03-24",
+  "employee_id": "E0005"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0842",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-09-25",
+  "employee_id": "E0842"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0426",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-09-16",
+  "employee_id": "E0426"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0264",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-02-26",
+  "employee_id": "E0264"
+ },
+ {
+  "control": "A2",
+  "key": "erp.e0264",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-02-26",
+  "employee_id": "E0264"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0495",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-10-08",
+  "employee_id": "E0495"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e1032",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-08-06",
+  "employee_id": "E1032"
+ },
+ {
+  "control": "A2",
+  "key": "erp.e1032",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-08-06",
+  "employee_id": "E1032"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0321",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-10-28",
+  "employee_id": "E0321"
+ },
+ {
+  "control": "A2",
+  "key": "hris.e0321",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-10-28",
+  "employee_id": "E0321"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0873",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-02-05",
+  "employee_id": "E0873"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0814",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2025-11-26",
+  "employee_id": "E0814"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0879",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-02-04",
+  "employee_id": "E0879"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0617",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-02-26",
+  "employee_id": "E0617"
+ },
+ {
+  "control": "A2",
+  "key": "ad.e0225",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-06-29",
+  "employee_id": "E0225"
+ },
+ {
+  "control": "A2",
+  "key": "erp.e0225",
+  "kind": "injected",
+  "detail": "leaver's account disabled late, on 2026-06-29",
+  "employee_id": "E0225"
+ },
+ {
+  "control": "A3",
+  "key": "E1096|ERP:customer_view",
+  "kind": "injected",
+  "detail": "mover kept ERP:customer_view from previous role Sales Manager",
+  "employee_id": "E1096"
+ },
+ {
+  "control": "A3",
+  "key": "E0235|ERP:po_create",
+  "kind": "injected",
+  "detail": "mover kept ERP:po_create from previous role Procurement Officer",
+  "employee_id": "E0235"
+ },
+ {
+  "control": "A3",
+  "key": "E0187|ERP:gl_journal_post",
+  "kind": "injected",
+  "detail": "mover kept ERP:gl_journal_post from previous role Financial Accountant",
+  "employee_id": "E0187"
+ },
+ {
+  "control": "A3",
+  "key": "E0187|ERP:gl_reporting",
+  "kind": "injected",
+  "detail": "mover kept ERP:gl_reporting from previous role Financial Accountant",
+  "employee_id": "E0187"
+ },
+ {
+  "control": "A3",
+  "key": "E0019|ERP:ap_invoice_entry",
+  "kind": "injected",
+  "detail": "mover kept ERP:ap_invoice_entry from previous role AP Clerk",
+  "employee_id": "E0019"
+ },
+ {
+  "control": "A3",
+  "key": "E0019|ERP:vendor_view",
+  "kind": "injected",
+  "detail": "mover kept ERP:vendor_view from previous role AP Clerk",
+  "employee_id": "E0019"
+ },
+ {
+  "control": "A3",
+  "key": "E0313|HRIS:employee_edit",
+  "kind": "injected",
+  "detail": "mover kept HRIS:employee_edit from previous role HR Officer",
+  "employee_id": "E0313"
+ },
+ {
+  "control": "S1",
+  "key": "E0313|HRIS:employee_edit|PAYROLL:payroll_run",
+  "kind": "consequence",
+  "detail": "the kept HRIS:employee_edit conflicts with the new role's entitlements",
+  "employee_id": "E0313"
+ },
+ {
+  "control": "A3",
+  "key": "E0016|ERP:payment_approve",
+  "kind": "injected",
+  "detail": "holds ERP:payment_approve, not in the role model for AP Clerk, no approved exception",
+  "employee_id": "E0016"
+ },
+ {
+  "control": "A3",
+  "key": "E0633|ERP:ap_invoice_approve",
+  "kind": "injected",
+  "detail": "holds ERP:ap_invoice_approve, not in the role model for Operations Staff, no approved exception",
+  "employee_id": "E0633"
+ },
+ {
+  "control": "A3",
+  "key": "E0134|ERP:gl_reporting",
+  "kind": "injected",
+  "detail": "holds ERP:gl_reporting, not in the role model for Treasury Officer, no approved exception",
+  "employee_id": "E0134"
+ },
+ {
+  "control": "A3",
+  "key": "E1171|ERP:gl_journal_approve",
+  "kind": "injected",
+  "detail": "holds ERP:gl_journal_approve, not in the role model for Facilities Staff, no approved exception",
+  "employee_id": "E1171"
+ },
+ {
+  "control": "A3",
+  "key": "E0429|ERP:vendor_view",
+  "kind": "injected",
+  "detail": "holds ERP:vendor_view, not in the role model for IT Support, no approved exception",
+  "employee_id": "E0429"
+ },
+ {
+  "control": "A3",
+  "key": "E1123|ERP:vendor_create",
+  "kind": "injected",
+  "detail": "holds ERP:vendor_create, not in the role model for Facilities Staff, no approved exception",
+  "employee_id": "E1123"
+ },
+ {
+  "control": "A3",
+  "key": "E0694|ERP:ap_invoice_approve",
+  "kind": "injected",
+  "detail": "holds ERP:ap_invoice_approve, not in the role model for Operations Staff, no approved exception",
+  "employee_id": "E0694"
+ },
+ {
+  "control": "A3",
+  "key": "E0858|ERP:payment_approve",
+  "kind": "injected",
+  "detail": "holds ERP:payment_approve, not in the role model for Operations Staff, no approved exception",
+  "employee_id": "E0858"
+ },
+ {
+  "control": "A4",
+  "key": "admin|AD:domain_admin",
+  "kind": "injected",
+  "detail": "privileged entitlement on a generic (unnamed) account"
+ },
+ {
+  "control": "A4",
+  "key": "erp.firefighter|ERP:sap_all",
+  "kind": "injected",
+  "detail": "privileged entitlement on a generic (unnamed) account"
+ },
+ {
+  "control": "A4",
+  "key": "erp.e0171|ERP:sap_all",
+  "kind": "injected",
+  "detail": "SAP_ALL held by a Financial Accountant",
+  "employee_id": "E0171"
+ },
+ {
+  "control": "A3",
+  "key": "E0171|ERP:sap_all",
+  "kind": "injected",
+  "detail": "same entitlement is also an excess against the role model",
+  "employee_id": "E0171"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e0087",
+  "kind": "injected",
+  "detail": "enabled, last logon 2026-03-05"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0868",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-09-11"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0482",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-11-05"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e0064",
+  "kind": "injected",
+  "detail": "enabled, last logon 2026-03-24"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e1151",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-08-29"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0118",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-09-07"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0196",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-08-01"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0514",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-08-30"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0793",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-11-17"
+ },
+ {
+  "control": "A5",
+  "key": "payroll.e0351",
+  "kind": "injected",
+  "detail": "enabled, last logon 2026-02-07"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e1031",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-09-13"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0715",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-06-18"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0192",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-06-15"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0605",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-06-17"
+ },
+ {
+  "control": "A5",
+  "key": "payroll.e0377",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-12-12"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e1075",
+  "kind": "injected",
+  "detail": "enabled, last logon 2026-01-02"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e1043",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-08-09"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0811",
+  "kind": "injected",
+  "detail": "enabled, last logon 2026-03-25"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0150",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-06-30"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0414",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-11-16"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e0125",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-09-17"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0963",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-08-11"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0890",
+  "kind": "injected",
+  "detail": "enabled, last logon 2026-02-24"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0109",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-06-07"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e1053",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-06-20"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0090",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-10-12"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0431",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-08-24"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0711",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-07-22"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e0982",
+  "kind": "injected",
+  "detail": "enabled, last logon 2025-06-24"
+ },
+ {
+  "control": "A5",
+  "key": "payroll.e0359",
+  "kind": "injected",
+  "detail": "enabled, last logon 2026-03-17"
+ },
+ {
+  "control": "S1",
+  "key": "E0936|ERP:po_create|ERP:po_approve",
+  "kind": "injected",
+  "detail": "holds ERP:po_create and ERP:po_approve with no mitigating control",
+  "employee_id": "E0936"
+ },
+ {
+  "control": "A3",
+  "key": "E0936|ERP:po_approve",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0936"
+ },
+ {
+  "control": "S1",
+  "key": "E0134|ERP:vendor_create|ERP:payment_run",
+  "kind": "injected",
+  "detail": "holds ERP:vendor_create and ERP:payment_run with no mitigating control",
+  "employee_id": "E0134"
+ },
+ {
+  "control": "A3",
+  "key": "E0134|ERP:vendor_create",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0134"
+ },
+ {
+  "control": "S1",
+  "key": "E0219|ERP:po_create|ERP:po_approve",
+  "kind": "injected",
+  "detail": "holds ERP:po_create and ERP:po_approve with no mitigating control",
+  "employee_id": "E0219"
+ },
+ {
+  "control": "A3",
+  "key": "E0219|ERP:po_approve",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0219"
+ },
+ {
+  "control": "S1",
+  "key": "E0259|ERP:po_create|ERP:po_approve",
+  "kind": "injected",
+  "detail": "holds ERP:po_create and ERP:po_approve with no mitigating control",
+  "employee_id": "E0259"
+ },
+ {
+  "control": "A3",
+  "key": "E0259|ERP:po_approve",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0259"
+ },
+ {
+  "control": "S1",
+  "key": "E0024|ERP:vendor_create|ERP:ap_invoice_entry",
+  "kind": "injected",
+  "detail": "holds ERP:vendor_create and ERP:ap_invoice_entry with no mitigating control",
+  "employee_id": "E0024"
+ },
+ {
+  "control": "A3",
+  "key": "E0024|ERP:vendor_create",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0024"
+ },
+ {
+  "control": "S1",
+  "key": "E0145|ERP:payment_run|ERP:payment_approve",
+  "kind": "injected",
+  "detail": "holds ERP:payment_run and ERP:payment_approve with no mitigating control",
+  "employee_id": "E0145"
+ },
+ {
+  "control": "A3",
+  "key": "E0145|ERP:payment_approve",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0145"
+ },
+ {
+  "control": "S1",
+  "key": "E0170|ERP:gl_journal_post|ERP:gl_journal_approve",
+  "kind": "injected",
+  "detail": "holds ERP:gl_journal_post and ERP:gl_journal_approve with no mitigating control",
+  "employee_id": "E0170"
+ },
+ {
+  "control": "A3",
+  "key": "E0170|ERP:gl_journal_approve",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0170"
+ },
+ {
+  "control": "S1",
+  "key": "E0301|HRIS:employee_edit|PAYROLL:payroll_run",
+  "kind": "injected",
+  "detail": "holds HRIS:employee_edit and PAYROLL:payroll_run with no mitigating control",
+  "employee_id": "E0301"
+ },
+ {
+  "control": "A3",
+  "key": "E0301|PAYROLL:payroll_run",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0301"
+ },
+ {
+  "control": "S1",
+  "key": "E0311|HRIS:employee_edit|PAYROLL:payroll_run",
+  "kind": "injected",
+  "detail": "holds HRIS:employee_edit and PAYROLL:payroll_run with no mitigating control",
+  "employee_id": "E0311"
+ },
+ {
+  "control": "A3",
+  "key": "E0311|PAYROLL:payroll_run",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0311"
+ },
+ {
+  "control": "S1",
+  "key": "E0081|ERP:vendor_create|ERP:ap_invoice_entry",
+  "kind": "injected",
+  "detail": "holds ERP:vendor_create and ERP:ap_invoice_entry with no mitigating control",
+  "employee_id": "E0081"
+ },
+ {
+  "control": "A3",
+  "key": "E0081|ERP:vendor_create",
+  "kind": "injected",
+  "detail": "the conflicting entitlement is also excess against the role model",
+  "employee_id": "E0081"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00120",
+  "kind": "injected",
+  "detail": "grant with no ticket"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00093",
+  "kind": "injected",
+  "detail": "grant with no ticket"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00047",
+  "kind": "injected",
+  "detail": "grant with no ticket"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00019",
+  "kind": "injected",
+  "detail": "grant with no ticket"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00020",
+  "kind": "injected",
+  "detail": "grant with no ticket"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00123",
+  "kind": "injected",
+  "detail": "grant with no ticket"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00109",
+  "kind": "injected",
+  "detail": "grant approved by its beneficiary"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00127",
+  "kind": "injected",
+  "detail": "grant approved by its beneficiary"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00054",
+  "kind": "injected",
+  "detail": "grant approved by its beneficiary"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00048",
+  "kind": "injected",
+  "detail": "grant approved by its requester"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00010",
+  "kind": "injected",
+  "detail": "grant approved by its requester"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00102",
+  "kind": "injected",
+  "detail": "grant made while the ticket was still pending"
+ },
+ {
+  "control": "F1",
+  "key": "E0965",
+  "kind": "injected",
+  "detail": "40 claims between RM900 and RM999.99 \u2014 just under the RM1,000 limit"
+ },
+ {
+  "control": "F1",
+  "key": "E1033",
+  "kind": "injected",
+  "detail": "40 claims between RM900 and RM999.99 \u2014 just under the RM1,000 limit"
+ },
+ {
+  "control": "F1",
+  "key": "E1043",
+  "kind": "injected",
+  "detail": "40 claims between RM900 and RM999.99 \u2014 just under the RM1,000 limit"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010932",
+  "kind": "injected",
+  "detail": "duplicate of EXP-009707"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010933",
+  "kind": "injected",
+  "detail": "duplicate of EXP-002585"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010934",
+  "kind": "injected",
+  "detail": "duplicate of EXP-000784"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010935",
+  "kind": "injected",
+  "detail": "duplicate of EXP-007423"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010936",
+  "kind": "injected",
+  "detail": "duplicate of EXP-005747"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010937",
+  "kind": "injected",
+  "detail": "duplicate of EXP-004757"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010938",
+  "kind": "injected",
+  "detail": "duplicate of EXP-004585"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010939",
+  "kind": "injected",
+  "detail": "duplicate of EXP-010651"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010940",
+  "kind": "injected",
+  "detail": "duplicate of EXP-000552"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010941",
+  "kind": "injected",
+  "detail": "duplicate of EXP-002952"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010942",
+  "kind": "injected",
+  "detail": "duplicate of EXP-009305"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010943",
+  "kind": "injected",
+  "detail": "duplicate of EXP-002049"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010944",
+  "kind": "injected",
+  "detail": "duplicate of EXP-001142"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010945",
+  "kind": "injected",
+  "detail": "duplicate of EXP-002254"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010946",
+  "kind": "injected",
+  "detail": "duplicate of EXP-010577"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-006353",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-009428",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-002179",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-009876",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-005979",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-000659",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-008422",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-001028",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-003132",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "EXP-010460",
+  "kind": "injected",
+  "detail": "claim approved by the claimant"
+ },
+ {
+  "control": "F1",
+  "key": "E0641",
+  "kind": "injected",
+  "detail": "25 claims in round hundreds"
+ },
+ {
+  "control": "S1",
+  "key": "E0072|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0072"
+ },
+ {
+  "control": "S1",
+  "key": "E0073|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0073"
+ },
+ {
+  "control": "S1",
+  "key": "E0077|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0077"
+ },
+ {
+  "control": "S1",
+  "key": "E0078|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0078"
+ },
+ {
+  "control": "S1",
+  "key": "E0079|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0079"
+ },
+ {
+  "control": "S1",
+  "key": "E0081|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0081"
+ },
+ {
+  "control": "S1",
+  "key": "E0083|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0083"
+ },
+ {
+  "control": "S1",
+  "key": "E0084|ERP:ap_invoice_entry|ERP:ap_invoice_approve",
+  "kind": "design",
+  "detail": "the AP Supervisor role itself grants ERP:ap_invoice_entry and ERP:ap_invoice_approve",
+  "employee_id": "E0084"
+ },
+ {
+  "control": "S1",
+  "key": "E0129|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0129"
+ },
+ {
+  "control": "S1",
+  "key": "E0130|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0130"
+ },
+ {
+  "control": "S1",
+  "key": "E0132|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0132"
+ },
+ {
+  "control": "S1",
+  "key": "E0133|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0133"
+ },
+ {
+  "control": "S1",
+  "key": "E0134|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0134"
+ },
+ {
+  "control": "S1",
+  "key": "E0135|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0135"
+ },
+ {
+  "control": "S1",
+  "key": "E0136|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0136"
+ },
+ {
+  "control": "S1",
+  "key": "E0137|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0137"
+ },
+ {
+  "control": "S1",
+  "key": "E0138|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0138"
+ },
+ {
+  "control": "S1",
+  "key": "E0139|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0139"
+ },
+ {
+  "control": "S1",
+  "key": "E0140|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0140"
+ },
+ {
+  "control": "S1",
+  "key": "E0141|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0141"
+ },
+ {
+  "control": "S1",
+  "key": "E0142|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0142"
+ },
+ {
+  "control": "S1",
+  "key": "E0143|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0143"
+ },
+ {
+  "control": "S1",
+  "key": "E0144|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0144"
+ },
+ {
+  "control": "S1",
+  "key": "E0145|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0145"
+ },
+ {
+  "control": "S1",
+  "key": "E0146|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0146"
+ },
+ {
+  "control": "S1",
+  "key": "E0187|ERP:payment_run|ERP:bank_recon",
+  "kind": "design",
+  "detail": "the Treasury Officer role itself grants ERP:payment_run and ERP:bank_recon",
+  "employee_id": "E0187"
+ },
+ {
+  "control": "S1",
+  "key": "E0372|PAYROLL:payroll_approve|PAYROLL:bank_file_release",
+  "kind": "design",
+  "detail": "the Payroll Manager role itself grants PAYROLL:payroll_approve and PAYROLL:bank_file_release",
+  "employee_id": "E0372"
+ },
+ {
+  "control": "S1",
+  "key": "E0373|PAYROLL:payroll_approve|PAYROLL:bank_file_release",
+  "kind": "design",
+  "detail": "the Payroll Manager role itself grants PAYROLL:payroll_approve and PAYROLL:bank_file_release",
+  "employee_id": "E0373"
+ },
+ {
+  "control": "S1",
+  "key": "E0374|PAYROLL:payroll_approve|PAYROLL:bank_file_release",
+  "kind": "design",
+  "detail": "the Payroll Manager role itself grants PAYROLL:payroll_approve and PAYROLL:bank_file_release",
+  "employee_id": "E0374"
+ },
+ {
+  "control": "S1",
+  "key": "E0375|PAYROLL:payroll_approve|PAYROLL:bank_file_release",
+  "kind": "design",
+  "detail": "the Payroll Manager role itself grants PAYROLL:payroll_approve and PAYROLL:bank_file_release",
+  "employee_id": "E0375"
+ },
+ {
+  "control": "S1",
+  "key": "E0376|PAYROLL:payroll_approve|PAYROLL:bank_file_release",
+  "kind": "design",
+  "detail": "the Payroll Manager role itself grants PAYROLL:payroll_approve and PAYROLL:bank_file_release",
+  "employee_id": "E0376"
+ },
+ {
+  "control": "S1",
+  "key": "E0377|PAYROLL:payroll_approve|PAYROLL:bank_file_release",
+  "kind": "design",
+  "detail": "the Payroll Manager role itself grants PAYROLL:payroll_approve and PAYROLL:bank_file_release",
+  "employee_id": "E0377"
+ },
+ {
+  "control": "S1",
+  "key": "E0378|PAYROLL:payroll_approve|PAYROLL:bank_file_release",
+  "kind": "design",
+  "detail": "the Payroll Manager role itself grants PAYROLL:payroll_approve and PAYROLL:bank_file_release",
+  "employee_id": "E0378"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0214",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0214"
+ },
+ {
+  "control": "A5",
+  "key": "erp.e0214",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0214"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0339",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0339"
+ },
+ {
+  "control": "A5",
+  "key": "hris.e0339",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0339"
+ },
+ {
+  "control": "A5",
+  "key": "payroll.e0339",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0339"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0391",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0391"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0745",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0745"
+ },
+ {
+  "control": "A5",
+  "key": "ad.e0864",
+  "kind": "consequence",
+  "detail": "a leaver's still-enabled account is also dormant",
+  "employee_id": "E0864"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00011",
+  "kind": "process",
+  "detail": "the system owner approved a grant to his own account"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00012",
+  "kind": "process",
+  "detail": "the system owner approved a grant to his own account"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00009",
+  "kind": "process",
+  "detail": "the system owner approved a grant to his own account"
+ },
+ {
+  "control": "A6",
+  "key": "CHG-00068",
+  "kind": "process",
+  "detail": "the system owner approved a grant to his own account"
+ }
+]
