@@ -1,6 +1,6 @@
 # Sentry
 
-*Live: to follow.* · [Findings memo](results/FINDINGS.md) · [Every exception](results/exceptions.csv) · [The tests](sentry/tests.py)
+**Live: https://sentry-ruddy.vercel.app** · [Findings memo](results/FINDINGS.md) · [Every exception](results/exceptions.csv) · [The tests](sentry/tests.py)
 
 An IT audit of logical access and segregation of duties at a company that does not
 exist — Mekar Holdings Berhad, four systems, 1,204 employees — with the one thing a
